@@ -1,7 +1,8 @@
+tomcat
 #centos
 #ubuntu
 #mysql
-kube-apiserver
+#kube-apiserver
 #nginx
 #redis
 #rancher/rancher:stable
