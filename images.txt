@@ -1,6 +1,7 @@
 centos
 ubuntu
 mysql
+kube-apiserver
 #nginx
 #redis
 #rancher/rancher:stable
