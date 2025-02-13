@@ -1,6 +1,6 @@
-centos
-ubuntu
-mysql
+#centos
+#ubuntu
+#mysql
 kube-apiserver
 #nginx
 #redis
