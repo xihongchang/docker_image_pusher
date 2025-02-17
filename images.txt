@@ -1,8 +1,9 @@
+nacos
 #tomcat
 #centos
 #ubuntu
 #mysql
-kube-apiserver:1.23.17
+#kube-apiserver:1.23.17
 #nginx
 #redis
 #rancher/rancher:stable
