@@ -1,4 +1,5 @@
-nacos/nacos-server:v2.5.0
+openzipkin/zipkin:3.5.0
+#nacos/nacos-server:v2.5.0
 #tomcat
 #centos
 #ubuntu
