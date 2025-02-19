@@ -1,5 +1,5 @@
-skywalking:10.1.0
-kafka:3.9.0
+skywalking
+kafka
 #openzipkin/zipkin:3.5.0
 #nacos/nacos-server:v2.5.0
 #tomcat
