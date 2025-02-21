@@ -1,5 +1,6 @@
-skywalking
-kafka
+Dify
+#skywalking
+#kafka
 #openzipkin/zipkin:3.5.0
 #nacos/nacos-server:v2.5.0
 #tomcat
