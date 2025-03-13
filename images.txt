@@ -1,4 +1,4 @@
-minio
+minio/minio
 #Dify
 #skywalking
 #kafka
