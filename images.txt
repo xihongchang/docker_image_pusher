@@ -1,4 +1,5 @@
-minio/minio
+emqx/emqx:5.8.5
+#minio/minio
 #Dify
 #skywalking
 #kafka
