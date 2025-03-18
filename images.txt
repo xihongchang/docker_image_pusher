@@ -1,4 +1,5 @@
-emqx/emqx:5.8.5
+gitlab/gitlab-ce
+#emqx/emqx:5.8.5
 #minio/minio
 #Dify
 #skywalking
